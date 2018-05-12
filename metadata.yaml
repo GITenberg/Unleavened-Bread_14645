@@ -1,0 +1,31 @@
+_repo: Unleavened-Bread_14645
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grant, Robert
+    birthdate: 1852
+    deathdate: 1940
+    gutenberg_agent_id: '2515'
+    url: http://www.gutenberg.org/2009/agents/2515
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Grant_%28novelist%29
+description: This 1900 bestseller, set in the late nineteenth century in New England,
+  New York, and Washington, D.C., was Grant's most successful novel. Selma White,
+  an unfulfilled teacher, yearns for something more in life. Inchoate ambitions spur
+  her to seek advancement in society through a succession of marriages.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+title: Unleavened Bread
+url: http://www.gutenberg.org/ebooks/14645
